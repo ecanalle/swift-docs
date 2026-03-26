@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*~
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+DerivedData/
+
+# Swift Package Manager
+.swiftpm/
+*.xcconfig
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project-specific
+.env
+.local
+notes/
+_drafts/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
