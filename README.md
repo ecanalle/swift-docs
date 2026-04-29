@@ -28,7 +28,7 @@ Follow the suggested sequence: [LEARNING_PATH.md](LEARNING_PATH.md)
 ## 📊 Contents Overview
 
 - **27 topic folders** organized by complexity
-- **180+ detailed guides** with complete code examples
+- **190+ detailed guides** with complete code examples
 - **Best practices** from real-world development
 - **Performance optimization** strategies & tips
 - **Common mistakes** & anti-patterns to avoid
@@ -39,10 +39,10 @@ Follow the suggested sequence: [LEARNING_PATH.md](LEARNING_PATH.md)
 ## 🎯 What You Will Learn
 
 ### 🟢 Level 1: Fundamentals
-- Swift syntax, types, and operators
+- Swift syntax, types, operators, and optionals
 - Functions, closures, and higher-order functions
 - Object-oriented programming (classes, structs, protocols)
-- Basic app structure and accessibility
+- Core animations with UIView and SwiftUI
 
 ### 🟡 Level 2: Core Development
 - Application architecture patterns (MVC, MVVM, VIPER)
@@ -170,7 +170,7 @@ This documentation is provided as-is for educational purposes.
 
 ---
 
-**Last Updated:** March 26, 2026
-**Status:** ✅ Complete & Ready
+**Last Updated:** April 29, 2026
+**Status:** ✅ Complete & Ready (16 new topics added)
 
 **Questions?** Check the relevant section or search for your topic!
