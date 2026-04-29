@@ -36,6 +36,10 @@ notes/
 _drafts/
 CONTENT_MAP.md
 
+# Development Tools
+.codegraph/
+.obsidian/
+
 # OS
 Thumbs.db
 desktop.ini
