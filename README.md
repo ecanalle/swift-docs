@@ -76,6 +76,36 @@ Follow the suggested sequence: [LEARNING_PATH.md](LEARNING_PATH.md)
 
 ---
 
+## 🎮 Interactive Playgrounds
+
+Learn by doing! We provide **runnable Swift Playgrounds** for hands-on practice:
+
+### 📚 Available Playgrounds
+
+| Section | Playgrounds | Topics |
+|---------|-------------|--------|
+| **Fundamentals** | 4 playgrounds | Optionals, Error Handling, Closures, Protocols |
+| **Architecture** | 3 playgrounds | Design Patterns, Dependency Injection, MVVM |
+
+### 🚀 How to Use
+
+1. Navigate to [`examples/`](examples/) folder
+2. Open any `.playground` file in Xcode
+3. Press **⌘ + ↵** (Cmd + Enter) to run
+4. View output in the right sidebar
+5. Study the code examples and anti-patterns
+
+### 📖 Each Playground Includes
+
+- ✅ Complete, runnable code (copy-paste ready)
+- ❌ Common mistakes and anti-patterns
+- ✅ Best practices and real-world examples
+- 🔗 Links to corresponding documentation
+
+**Start here:** [`examples/README.md`](examples/README.md) for complete guide
+
+---
+
 ## 🛠️ How to Use This Documentation
 
 ### For Beginners
@@ -106,6 +136,11 @@ Follow the suggested sequence: [LEARNING_PATH.md](LEARNING_PATH.md)
 ├── LEARNING_PATH.md (suggested sequence)
 ├── CONTRIBUTING.md (contribution guidelines)
 ├── TEMPLATE.md (template for new files)
+│
+├── examples/ (Interactive playgrounds)
+│   ├── 01-fundamentals/ (4 playgrounds)
+│   ├── 02-architecture/ (3 playgrounds)
+│   └── README.md (complete guide)
 │
 ├── 01-fundamentals/ (Swift basics)
 ├── 02-architecture/ (Design patterns)
@@ -170,7 +205,9 @@ This documentation is provided as-is for educational purposes.
 
 ---
 
-**Last Updated:** April 29, 2026
-**Status:** ✅ Complete & Ready (16 new topics added)
+**Last Updated:** May 10, 2026
+**Status:** ✅ Complete (7 interactive playgrounds added + 16 new topics)
 
-**Questions?** Check the relevant section or search for your topic!
+**Playgrounds:** 7 playgrounds | ~2,930 lines of runnable code
+
+**Questions?** Check the relevant section, search for your topic, or try the [interactive playgrounds](examples/)!
