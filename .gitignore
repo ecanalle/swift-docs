@@ -38,6 +38,7 @@ CONTENT_MAP.md
 
 # Development Tools
 .codegraph/
+.github/
 .obsidian/
 
 # OS
